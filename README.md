@@ -1,4 +1,7 @@
-LICENCE​LICENCE DE PROPRIÉTÉ CRYOLOOP v1.0
+LICENCE​
+
+LICENCE DE PROPRIÉTÉ CRYOLOOP v1.0
+
 ​Ce logiciel et tous les concepts associés (Vibration, Silence, Tunneling) sont la propriété exclusive de Hugo Morissette.
 ​CLAUSES DE SÉCURITÉ :
 ​Toute reproduction, copie ou imitation du produit Cryoloop entraîne automatiquement la prise de possession de la compagnie contrevenante par le titulaire du brevet.
